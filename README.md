@@ -1,5 +1,4 @@
 # Warungku
-# Warungku
 
 Aplikasi mobile manajemen toko ritel untuk pemilik UMKM yang dibangun menggunakan Flutter dan SQLite. Mendukung mode offline penuh untuk kemudahan pengelolaan produk, kasir, dan laporan penjualan.
 
@@ -9,9 +8,9 @@ Aplikasi mobile manajemen toko ritel untuk pemilik UMKM yang dibangun menggunaka
 
 | Nama File / Platform | Tautan (Link) |
 |---|---|
-| **Source Code** | [GitHub Repository](https://github.com/username/warungku) |
-| **Download APK** | [Google Drive / GitHub Release](https://drive.google.com/drive/folders/XXXXXXXX) |
-| **Online Emulator** | [Appetize.io Demo](https://appetize.io/app/XXXXXXXX) |
+| **Source Code** | [GitHub Repository](https://github.com/siradiamrin/Warungku) |
+| **Download APK** | [Google Drive / GitHub Release](https://drive.google.com/file/d/1f4Asvb-3X_NXN6OF8Tbpf-0Y5q5Ju6_W/view?usp=sharing) |
+|  |
 
 ---
 
