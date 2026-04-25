@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Warungku</string>
+    <string name="title_activity_main">Warungku</string>
+    <string name="package_name">com.Warungku</string>
+    <string name="custom_url_scheme">com.Warungku</string>
+</resources>
