@@ -65,15 +65,14 @@ npm run build
 ```bash
 npx cap sync
 ```
-5. jalankan aplikasi:
-  -jalan di browser:
+5. jalan dibrowser:
 ```bash
 npm start
 ```
-  -untuk membuka di andorid studio:
+6. jalan di andorid studio:
 ```bash
-npx cap open android
-``` (ini agar bisa liat bagaimana tampilan apk di hp)
+npx cap open android  (ini agar bisa liat bagaimana tampilan apk di hp)
+```
    
 
 ---
