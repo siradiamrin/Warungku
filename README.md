@@ -4,12 +4,13 @@ Aplikasi mobile manajemen toko ritel untuk pemilik UMKM yang dibangun menggunaka
 
 ---
 
+
 ## 🔗 Link Akses Aplikasi
 
 | Nama File / Platform | Tautan (Link) |
 |---|---|
 | **Source Code** | [GitHub Repository](https://github.com/siradiamrin/Warungku) |
-| **Download APK** | [Google Drive / GitHub Release](https://drive.google.com/file/d/1f4Asvb-3X_NXN6OF8Tbpf-0Y5q5Ju6_W/view?usp=sharing) |
+| **Download APK** | [Google Drive ](https://drive.google.com/file/d/1f4Asvb-3X_NXN6OF8Tbpf-0Y5q5Ju6_W/view?usp=sharing) |
 |  |
 
 ---
@@ -65,8 +66,14 @@ npm run build
 npx cap sync
 ```
 5. jalankan aplikasi:
-  -jalan di browser: npx start
-  -untuk membuka di andorid studio: npx cap open android (ini agar bisa liat bagaimana tampilan apk di hp)
+  -jalan di browser:
+```bash
+npm start
+```
+  -untuk membuka di andorid studio:
+```bash
+npx cap open android
+``` (ini agar bisa liat bagaimana tampilan apk di hp)
    
 
 ---
