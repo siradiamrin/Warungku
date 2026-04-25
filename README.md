@@ -16,12 +16,11 @@ Aplikasi mobile manajemen toko ritel untuk pemilik UMKM yang dibangun menggunaka
 
 ## 🚀 Tech Stack
 
-- **Framework:** Flutter
-- **Language:** Dart
-- **State Management:** Provider / Riverpod
-- **Navigation:** go_router
-- **Database:** SQLite (sqflite) — lokal, offline
-- **Export:** excel, pdf, printing
+- **Framework:** React.js
+- **Mobile Wrapper:** Capacitor
+- **Language:** javaScript 
+- **Database:** SQLite (Capacitor-cpmmunity-sqite)
+- **storage:** Capacitor Filesystem
 
 ---
 
@@ -44,29 +43,31 @@ Pengujian ini dilakukan berdasarkan aspek kualitas perangkat lunak (ISO 25010) u
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/username/warungku.git
+git clone https://github.com/siradiamrin/warungku.git
 cd warungku
 ```
 
 2. Install dependencies:
 
 ```bash
-flutter pub get
+npm install
 ```
 
-3. Jalankan aplikasi:
+3. build projek:
 
 ```bash
-flutter run
+npm run build
 ```
 
-4. Build APK (opsional):
+4. sinkronisasi ke android:
 
 ```bash
-flutter build apk --release
+npx cap sync
 ```
-
-> **Minimum:** Flutter SDK 3.0.0 | Dart 3.0.0
+5. jalankan aplikasi:
+  -jalan di browser: npx start
+  -untuk membuka di andorid studio: npx cap open android (ini agar bisa liat bagaimana tampilan apk di hp)
+   
 
 ---
 
