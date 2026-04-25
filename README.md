@@ -71,13 +71,7 @@ flutter build apk --release
 
 ---
 
-## 📱 Akun Demo
 
-| Role | Email | Password |
-|---|---|---|
-| Owner | owner@warungku.com | warungku123 |
-
----
 
 Dikembangkan untuk keperluan tugas **Rekayasa Kebutuhan D** — Universitas Muhammadiyah Malang.  
 **Laode Siradi Amrin** — NIM 202310370311016
